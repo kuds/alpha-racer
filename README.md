@@ -14,8 +14,8 @@ Implementing ROS 2 onto the Picar-V platform for automatous navigation and racin
 ### Other Links
  - [Picar-V Instruction Manual](https://docs.sunfounder.com/projects/picar-v/en/latest/)
  - [korzen - PiCar_ROS Repo](https://github.com/korzen/PiCar_ROS)
+ - [Roslibpy](https://roslibpy.readthedocs.io/en/latest/)
 
 ## Software Setup
  - [Ubuntu Server (22.04.2 LTS)](https://ubuntu.com/download/server)
  - [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
- - [Roslibpy](https://roslibpy.readthedocs.io/en/latest/)
