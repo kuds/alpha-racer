@@ -11,10 +11,11 @@ Implementing ROS 2 onto the Picar-V platform for automatous navigation and racin
  - [Raspberry PI Imager](https://www.raspberrypi.com/software/)
  - [Visual Studio Code](https://code.visualstudio.com/)
 
-### Other Links
+### Helpful Links
  - [Picar-V Instruction Manual](https://docs.sunfounder.com/projects/picar-v/en/latest/)
  - [korzen - PiCar_ROS Repo](https://github.com/korzen/PiCar_ROS)
  - [Roslibpy](https://roslibpy.readthedocs.io/en/latest/)
+ - [Raspberry Pi ROS Python Publisher GPIO State](https://roboticsbackend.com/raspberry-pi-ros-python-publisher-publish-a-gpio-state/)
 
 ## Software Setup
  - [Ubuntu Server (22.04.2 LTS)](https://ubuntu.com/download/server)
