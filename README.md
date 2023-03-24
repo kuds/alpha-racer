@@ -18,3 +18,4 @@ Implementing ROS 2 onto the Picar-V platform for automatous navigation and racin
 ## Software Setup
  - [Ubuntu Server (22.04.2 LTS)](https://ubuntu.com/download/server)
  - [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
+ - [Roslibpy](https://roslibpy.readthedocs.io/en/latest/)
