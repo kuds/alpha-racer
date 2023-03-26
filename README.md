@@ -15,7 +15,7 @@ Using the Picar-V and ROS 2 platforms to build an autonomous system that navigat
  - [Picar-V Instruction Manual](https://docs.sunfounder.com/projects/picar-v/en/latest/)
  - [korzen - PiCar_ROS Repo](https://github.com/korzen/PiCar_ROS)
  - [Roslibpy](https://roslibpy.readthedocs.io/en/latest/)
- - [Raspberry Pi ROS Python Publisher GPIO State (ROS 1](https://roboticsbackend.com/raspberry-pi-ros-python-publisher-publish-a-gpio-state/)
+ - [Raspberry Pi ROS Python Publisher GPIO State (ROS 1)](https://roboticsbackend.com/raspberry-pi-ros-python-publisher-publish-a-gpio-state/)
  - [ROS Client Library for the Python](https://github.com/ros2/rclpy)
 
 ## Software Setup
