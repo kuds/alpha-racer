@@ -1,5 +1,5 @@
 # Picar-V-ROS-2
-Implementing ROS 2 onto the Picar-V platform for automatous navigation and racing
+Using the Picar-V and ROS 2 platforms to build an autonomous system that navigates a predefined track as quickly as possible
 
 ## Prerequisits
 ### Hardware
