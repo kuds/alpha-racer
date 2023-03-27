@@ -18,6 +18,7 @@ Using the Picar-V and ROS 2 platforms to build an autonomous system that navigat
  - [Raspberry Pi ROS Python Publisher GPIO State (ROS 1)](https://roboticsbackend.com/raspberry-pi-ros-python-publisher-publish-a-gpio-state/)
  - [ROS Client Library for the Python](https://github.com/ros2/rclpy)
  - [ROS 2 Rclpy Parameter Callback](https://roboticsbackend.com/ros2-rclpy-parameter-callback/)
+ - [Rosdep](https://docs.ros.org/en/independent/api/rosdep/html/)
 
 ## Software Setup
  - [Ubuntu Server (22.04.2 LTS)](https://ubuntu.com/download/server)
