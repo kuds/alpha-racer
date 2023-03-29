@@ -19,6 +19,7 @@ Using the Picar-V and ROS 2 platforms to build an autonomous system that navigat
  - [ROS Client Library for the Python](https://github.com/ros2/rclpy)
  - [ROS 2 Rclpy Parameter Callback](https://roboticsbackend.com/ros2-rclpy-parameter-callback/)
  - [Rosdep](https://docs.ros.org/en/independent/api/rosdep/html/)
+ - [DeepPicar](https://github.com/dctian/DeepPiCar)
 
 ## Software Setup
  - [Ubuntu Server (22.04.2 LTS)](https://ubuntu.com/download/server)
