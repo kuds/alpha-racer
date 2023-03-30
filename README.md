@@ -24,3 +24,10 @@ Using the Picar-V and ROS 2 platforms to build an autonomous system that navigat
 ## Software Setup
  - [Ubuntu Server (22.04.2 LTS)](https://ubuntu.com/download/server)
  - [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
+
+### Chapter 1 - PWM
+It's possible that you meant PWM, which stands for Pulse Width Modulation. PWM is a technique used in electronic circuits to control the amount of power delivered to a load, such as a motor, LED or speaker.
+
+In PWM, the signal switches between a high and low state at a fixed frequency, and the duration of the high state (known as the duty cycle) is varied to control the amount of power delivered to the load. By rapidly turning the signal on and off, the load sees an average voltage or current that can be precisely controlled by adjusting the duty cycle.
+
+PWM is widely used in a variety of applications, including motor speed control, LED brightness control, and audio amplifiers.
