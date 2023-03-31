@@ -22,6 +22,7 @@ Using the Picar-V and ROS 2 platforms to build an autonomous system that navigat
  - [ROS 2 Rclpy Parameter Callback](https://roboticsbackend.com/ros2-rclpy-parameter-callback/)
  - [Rosdep](https://docs.ros.org/en/independent/api/rosdep/html/)
  - [DeepPicar](https://github.com/dctian/DeepPiCar)
+ - [Nav2](https://navigation.ros.org/)
 
 ## Software Setup
  - [Ubuntu Server (22.04.2 LTS)](https://ubuntu.com/download/server)
@@ -72,5 +73,3 @@ The SLAM problem arises when a robot needs to navigate in a new or previously un
 SLAM algorithms typically use a combination of sensor data such as LIDAR, cameras, and inertial measurement units (IMUs) to build a map of the environment and estimate the robot's location within that map. These algorithms use probabilistic methods to fuse sensor measurements over time, and can deal with uncertainty and errors in the sensor data.
 
 SLAM is a critical technology for autonomous robots and self-driving vehicles, as it allows them to operate in new and changing environments without relying on pre-built maps.
-
-
