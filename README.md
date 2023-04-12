@@ -23,6 +23,7 @@ Using the Picar-V and ROS 2 platforms to build an autonomous system that navigat
  - [Rosdep](https://docs.ros.org/en/independent/api/rosdep/html/)
  - [DeepPicar](https://github.com/dctian/DeepPiCar)
  - [Nav2](https://navigation.ros.org/)
+ - [F1tenth](https://f1tenth.org/)
 
 ## Software Setup
  - [Ubuntu Server (22.04.2 LTS)](https://ubuntu.com/download/server)
