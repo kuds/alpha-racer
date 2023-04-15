@@ -5,7 +5,7 @@ Using the Picar-V and ROS 2 platforms to build an autonomous system that navigat
 ### Hardware
  - [Raspbery PI 4B](https://www.amazon.com/dp/B09LYP7QH3?ref_=cm_sw_r_apin_dp_VMXPRDF13GEB3HZ2BBBR)
  - [Picar-V](https://www.amazon.com/dp/B06XWSVLL8?ref_=cm_sw_r_apin_dp_KSH0WGD7QD2PA3DQH86D)
- - [Lipo Batteries](https://www.amazon.com/dp/B06XWSVLL8?ref_=cm_sw_r_apin_dp_KSH0WGD7QD2PA3DQH86D)
+ - [Lipo Batteries](https://www.amazon.com/dp/B08RDL44MX?_encoding=UTF8&ref_=cm_sw_r_cp_ud_dp_JHM7TK7YX2E4JB62HWRA&th=1)
  - [Raspberry Pi Camera Module 3](https://www.seeedstudio.com/Raspberry-Pi-Camera-3-p-5574.html?queryID=976e3c95a6cc2c6cca4fe95f3674438b&objectID=5574&indexName=bazaar_retailer_products)
  - [Coral USB Accelerator](https://www.seeedstudio.com/Coral-USB-Accelerator-p-2899.html?queryID=e2a50252acb7b76b6a30810d2c9f5476&objectID=2899&indexName=bazaar_retailer_products)
 
