@@ -1,7 +1,7 @@
-# Picar-V-ROS-2
-Using the Picar-V and ROS 2 platforms to build an autonomous system that navigates a predefined track as quickly as possible
+# AphaRacer
+Using the Picar-X and ROS 2 platforms to build an autonomous system that navigates a predefined track as quickly as possible
 
-## Prerequisits
+## Prerequisites
 ### Hardware
  - [Raspbery PI 4B](https://www.amazon.com/dp/B09LYP7QH3?ref_=cm_sw_r_apin_dp_VMXPRDF13GEB3HZ2BBBR)
  - [Picar-V](https://www.amazon.com/dp/B06XWSVLL8?ref_=cm_sw_r_apin_dp_KSH0WGD7QD2PA3DQH86D)
@@ -32,7 +32,7 @@ Using the Picar-V and ROS 2 platforms to build an autonomous system that navigat
 ### Chapter 1 - Setting up Raspberry PI
 
 #### Chapter 1.1 - PWM
-PWM is a technique used in electronic circuits to control the amount of power delivered to a load, such as a motor, LED or speaker.
+PWM is a technique used in electronic circuits to control the amount of power delivered to a load, such as a motor, LED, or speaker.
 
 In PWM, the signal switches between a high and low state at a fixed frequency, and the duration of the high state (known as the duty cycle) is varied to control the amount of power delivered to the load. By rapidly turning the signal on and off, the load sees an average voltage or current that can be precisely controlled by adjusting the duty cycle.
 
@@ -56,7 +56,7 @@ Odometry: This technique involves using sensors to measure the distance traveled
 
 Inertial Navigation: This technique involves using sensors that measure the robot's acceleration and rotation to estimate its position and orientation. This technique is commonly used in autonomous vehicles and drones.
 
-GPS Navigation: This technique involves using GPS satellites to determine the robot's position on the earth's surface. GPS navigation is commonly used in outdoor environments.
+GPS Navigation: This technique involves using GPS satellites to determine the robot's position on the Earth's surface. GPS navigation is commonly used in outdoor environments.
 
 Laser-based Navigation: This technique involves using a laser scanner to measure the distance between the robot and its surroundings. By creating a 2D or 3D map of the environment, the robot can navigate autonomously.
 
